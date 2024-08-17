@@ -38,7 +38,7 @@ Highlights the most frequent job titles or skills.
 # Data Description
 "The dataset used in this data visualization was sourced from *Kaggle*.The dataset contains salary information for various job roles, including details such as job titles, departments, experience levels, and salary amounts. This data helps analyze how different factors influence salaries across different roles and industries."
 
-**Tools and Platform**
+**Tools and Platform**:
 **Python:** Used for data visualization and analysis.
 **Google Colab:** The platform where all the Python programs were executed.
 
