@@ -32,7 +32,7 @@ Depicts hierarchical data in a radial format, such as department structures.
 9. **Treemap**
 Visualizes hierarchical data, like salary distribution across departments.
 
-10.**Word Cloud**
+10. **Word Cloud**
 Highlights the most frequent job titles or skills. 
 
 # Data Description
