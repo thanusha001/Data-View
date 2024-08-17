@@ -1,4 +1,4 @@
-# data-view
+# Data-View
 
 "This project uses data visualization to uncover trends, patterns, and relationships within the dataset, making complex information easier to understand and analyze."
 
