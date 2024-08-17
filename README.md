@@ -42,4 +42,4 @@ Highlights the most frequent job titles or skills.
 **Python:** Used for data visualization and analysis.
 **Google Colab:** The platform where all the Python programs were executed.
 
-**data-set**:[Dataset salary 2024.csv](https://github.com/user-attachments/files/16643620/Dataset.salary.2024.csv)
+**data-set**:[Dataset salary 2024.csv](https://github.com/user-attachments/files/16643620/Dataset.salary.2024.csv) [copywrite]
