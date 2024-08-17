@@ -5,7 +5,7 @@
 ## Overview
 This repository contains various charts created from the "Dataset salary 2024" dataset. Each chart provides unique insights:
 
-### 1. Histogram
+###1. Histogram
 Shows the distribution of salaries, helping to identify common salary ranges.
 
 ### 2. Bubble Chart
